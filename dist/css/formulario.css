@@ -1,0 +1,15 @@
+.form-row{
+    margin-top: 100px;
+}
+
+.form{
+    width: 800px;
+}
+
+.container {
+    display: flex;
+}
+
+.form {
+    justify-content: center;
+}
