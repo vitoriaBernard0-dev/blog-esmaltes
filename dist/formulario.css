@@ -1,20 +1,10 @@
-.form-row{
-    margin-top: 100px;
-}
+
 
 .form{
     width: 800px;
     justify-content: center;
 }
 .form{
-    align-items: center; 
-    margin-left: 400px;
-}
-
-.p5 {
-
- align-items: center;
- margin-left: 65%;
- margin-bottom: -40%;
-
+    align-items: center;
+    margin-left: 175px;
 }
